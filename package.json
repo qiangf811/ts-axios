@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "--libraryname--",
   "version": "0.0.0",
   "description": "",
@@ -11,19 +10,6 @@
     "dist"
   ],
   "author": "--username-- <--usermail-->",
-=======
-  "name": "ts-axios",
-  "version": "0.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "dist/ts-axios.umd.js",
-  "module": "dist/ts-axios.es5.js",
-  "typings": "dist/types/ts-axios.d.ts",
-  "files": [
-    "dist"
-  ],
-  "author": "qiangfeng <qiangfeng@winning.com.cn>",
->>>>>>> master
   "repository": {
     "type": "git",
     "url": ""
